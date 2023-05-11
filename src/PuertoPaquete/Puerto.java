@@ -1,6 +1,8 @@
 //Diego Fuentes Ramirez
 package PuertoPaquete;
 
+import java.awt.event.ActionEvent;
+
 public class Puerto {
 
     private Hub[] puerto = new Hub[3];
@@ -19,5 +21,6 @@ public class Puerto {
 
         }
     }
+
 
 }
